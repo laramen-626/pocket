@@ -18,7 +18,7 @@ body {
 
             :root {
                 --header-image: url('/static/images/headerbunny.jpg');
-                --body-bg-image: url('https://sadhost.neocities.org/images/tiles/purplesky.gif');
+                --body-bg-image: url('/static/images/033C.jpg');
 
                 /* colors */
                 --content: #100999;
