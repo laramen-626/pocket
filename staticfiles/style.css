@@ -17,7 +17,7 @@ body {
     the images as variables */
 
             :root {
-                --header-image: url('staticfiles/images/headerbunny.jpg');
+                --header-image: url("/staticfiles/images/headerbunny.jpg");
                 --body-bg-image: url('https://sadhost.neocities.org/images/tiles/purplesky.gif');
 
                 /* colors */
