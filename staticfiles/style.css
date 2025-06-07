@@ -68,7 +68,7 @@ body {
                 background-color: #a937fa;
                 background-image: var(--body-bg-image);
                 background-repeat: repeat;
-                background-size: 50px 50px; /* Mantiene el tamaño original del tile */
+                background-size: 70px 70px; /* Mantiene el tamaño original del tile */
                 color: #100999;
             }
 
