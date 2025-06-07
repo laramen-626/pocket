@@ -223,6 +223,14 @@ body {
                 padding: 10px;
             }
 
+.bottombox {
+             background-image: url('/images/black-glitter.gif');
+             border: 8px solid transparent;
+             border-image: url('/images/pinklace.png') 34 round;
+             padding:7px;
+             color: yellow;
+            }
+
             /* CSS for extras */
 
             #topBar {
