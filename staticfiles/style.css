@@ -229,6 +229,8 @@ body {
              border-image: url('/static/images/pinklace.png') 34 round;
              padding:7px;
              color: yellow;
+             text-align: center;
+             align-items: center;
             }
 
             /* CSS for extras */
