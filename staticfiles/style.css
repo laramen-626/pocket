@@ -224,9 +224,9 @@ body {
             }
 
 .bottombox {
-             background-image: url('/images/black-glitter.gif');
+             background-image: url('/static/images/black-glitter.gif');
              border: 8px solid transparent;
-             border-image: url('/images/pinklace.png') 34 round;
+             border-image: url('/static/images/pinklace.png') 34 round;
              padding:7px;
              color: yellow;
             }
