@@ -88,7 +88,7 @@ body {
     the other elements, you will need to move that div outside
     of the container */
             #container {
-                max-width: 900px;
+                max-width: 1000px;
                 /* this is the width of your layout! */
                 /* if you change the above value, scroll to the bottom
       and change the media query according to the comment! */
@@ -161,8 +161,8 @@ body {
     create styles for #leftSidebar and #rightSidebar */
             aside {
                 background-color: #a937fa;
-                width: 200px;
-                padding: 20px;
+                width: 230px;
+                padding: 10px;
                 font-size: smaller;
                 /* this makes the sidebar text slightly smaller */
             }
@@ -253,7 +253,7 @@ body {
     "max-width" value below
     */
 
-            @media only screen and (max-width: 800px) {
+            @media only screen and (max-width: 900px) {
                 #flex {
                     flex-wrap: wrap;
                 }
