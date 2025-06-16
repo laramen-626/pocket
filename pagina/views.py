@@ -5,3 +5,6 @@ def index(request):
 
 def inicio(request):
     return render(request, 'pagina/hola.html')
+
+def dreamjournal(request):
+    return render(request, 'pagina/dreamjournal.html')
