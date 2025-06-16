@@ -1,2 +1,10 @@
 body{
-  background-image: url(
+  background-image: url('/static/images/dreamy.gif');
+  color: black;
+  font-family: Verdana;
+
+  :root {
+    --body-bg-image: url('/static/images/dreamy.gif');
+
+    content: ·100999;
+  }
