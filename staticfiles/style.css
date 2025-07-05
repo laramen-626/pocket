@@ -235,7 +235,7 @@ body {
 .journal-button {
              width: 150px; /* Adjust as needed based on your image size */
              height: 120px; /* Adjust as needed */
-             background-image: url('static/images/journal.gif'); /* Use Django's static tag here if possible in CSS, otherwise hardcode path if CSS is truly static */
+             background-image: url('/static/images/journal.gif'); /* Use Django's static tag here if possible in CSS, otherwise hardcode path if CSS is truly static */
              background-size: contain; /* or 'cover' or specific dimensions */
              background-repeat: no-repeat;
              background-position: center;
