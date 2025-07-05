@@ -242,6 +242,7 @@ body {
              border: none; /* Remove default button border */
              cursor: pointer; /* Show pointer on hover */
              padding: 0; /* Remove default button padding */
+             background-color: transparent;
     /* You might need to adjust other button styles like padding, border, etc. */
             }
 
